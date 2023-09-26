@@ -1,0 +1,18 @@
+.pokemonindex {
+    text-align: center;
+}
+
+.pokemonindex-title {
+    color: darkolivegreen;
+}
+
+.pokemonindex-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.pokemonindex-winner {
+    font-weight: bold;
+    color: orangered;
+}
